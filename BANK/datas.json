@@ -1,0 +1,136 @@
+{
+  "customers": [
+    {
+      "customer_id": 1,
+      "first_name": "saravana",
+      "acc_num": 1,
+      "password": 2001,
+      "Balance": "10000",
+      "Address": ["chennai", 6],
+      "others": {
+        "gender": "male",
+        "age": 22
+      }
+    },
+    {
+      "customer_id": 2,
+      "first_name": "kumar",
+      "acc_num": 2,
+      "password": 2000,
+      "Balance": "8000",
+      "Address": ["madurai", 66],
+      "others": {
+        "gender": "male",
+        "age": 23
+      }
+    },
+    {
+      "customer_id": 3,
+      "first_name": "Jane",
+      "acc_num": 3,
+      "password": 2001,
+      "Balance": "12000",
+      "Address": ["chennai", 6],
+      "others": {
+        "gender": "female",
+        "age": 23
+      }
+    },
+    {
+      "customer_id": 4,
+      "first_name": "vijay",
+      "acc_num": 4,
+      "password": 2002,
+      "Balance": "15000",
+      "Address": ["madurai", 66],
+      "others": {
+        "gender": "male",
+        "age": 23
+      }
+    },
+    {
+      "customer_id": 5,
+      "first_name": "raji",
+      "acc_num": 5,
+      "password": 1999,
+      "Balance": "20000",
+      "Address": ["coimbatore", 60006],
+      "others": {
+        "gender": "female",
+        "age": 23
+      }
+    },
+    {
+      "customer_id": 6,
+      "first_name": "priya",
+      "acc_num": 6,
+      "password": 2001,
+      "Balance": "20000",
+      "Address": ["coimbatore", 60006],
+      "others": {
+        "gender": "female",
+        "age": 23
+      }
+    },
+    {
+      "customer_id": 7,
+      "first_name": "revanth",
+      "acc_num": 7,
+      "password": 1998,
+      "Balance": "20000",
+      "Address": ["coimbatore", 60006],
+      "others": {
+        "gender": "male",
+        "age": 26
+      }
+    },
+    {
+      "customer_id": 8,
+      "first_name": "azees",
+      "acc_num": 8,
+      "password": 2001,
+      "Balance": "22000",
+      "Address": ["theni", 606],
+      "others": {
+        "gender": "male",
+        "age": 25
+      }
+    },
+    {
+      "customer_id": 9,
+      "first_name": "siva",
+      "acc_num": 9,
+      "password": 1997,
+      "Balance": "22000",
+      "Address": ["palakad", 606],
+      "others": {
+        "gender": "male",
+        "age": 27
+      }
+    },
+    {
+      "customer_id": 10,
+      "first_name": "arjun",
+      "acc_num": 10,
+      "password": 1991,
+      "Balance": "22000",
+      "Address": ["madurai", 66],
+      "others": {
+        "gender": "male",
+        "age": 27
+      }
+    },
+    {
+      "customer_id": 11,
+      "first_name": "dhivya",
+      "acc_num": 11,
+      "password": 1998,
+      "Balance": "22000",
+      "Address": ["madurai", 66],
+      "others": {
+        "gender": "female",
+        "age": 25
+      }
+    }
+  ]
+}
